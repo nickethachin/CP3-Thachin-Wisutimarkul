@@ -1,5 +1,4 @@
 num = int(input("Enter number: "))
-x = num
 for i in range(num):
-    print(" "*x,"*"*(1+2*i))
-    x -= 1
+    print(" "*num,"*"*(1+2*i))
+    num -= 1
