@@ -26,9 +26,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Exercise11_Thachin_W">
+  <component name="RunManager" selected="Python.Exercise21_Thachin_W">
     <configuration name="Exercise11_Thachin_W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3-Thachin-Wisutimarkul" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,7 +51,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercise4_Thachin_W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise21_Thachin_W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3-Thachin-Wisutimarkul" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,28 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/Exercise4_Thachin_W.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercise5_1_Thachin_W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CP3-Thachin-Wisutimarkul" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/Exercise5_1_Thachin_W.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/Exercise21_Thachin_W.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,13 +114,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="learningGUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CP3-Thachin-Wisutimarkul" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learningGUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise21_Thachin_W" />
+        <item itemvalue="Python.learningGUI" />
         <item itemvalue="Python.Exercise11_Thachin_W" />
         <item itemvalue="Python.Exercise8_Thachin_W" />
         <item itemvalue="Python.Exercise5_2_Thachin_W" />
-        <item itemvalue="Python.Exercise5_1_Thachin_W" />
-        <item itemvalue="Python.Exercise4_Thachin_W" />
       </list>
     </recent_temporary>
   </component>
@@ -162,22 +163,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="274" key="FileChooserDialogImpl/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583491321540" />
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1583510063739">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1583583515696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583510063739" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1583510063738">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583583515696" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1583583515695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583510063738" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1583510063738">
+    <state width="1899" height="281" key="GridCell.Tab.0.center/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583583515695" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1583583515695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583510063738" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1583510063738">
+    <state width="1899" height="281" key="GridCell.Tab.0.left/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583583515695" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1583583515695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583510063738" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583583515695" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1583579247265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583579247265" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1583579247264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583579247264" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1583579247264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583579247264" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1583579247264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583579247264" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1583491358344">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -190,9 +207,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583492108056" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583506716186">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583583260341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583506716186" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.13.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1583583260341" />
   </component>
 </project>
